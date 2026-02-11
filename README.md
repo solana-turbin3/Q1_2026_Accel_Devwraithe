@@ -2,3 +2,8 @@
 
 - Week 1:
   - Whitelist Transfer Hook
+  - Escrow LiteSVM
+  - Transfer Hook Vault (Challenge)
+
+- Week 2:
+  - MagicBlock ER Accel (VRF)
