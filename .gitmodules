@@ -14,3 +14,7 @@
 	path = magicblock-er-accel
 	url = https://github.com/devwraithe/magicblock-er-accel
 	branch = main
+[submodule "escrow-tuktuk"]
+	path = escrow-tuktuk
+	url = https://github.com/devwraithe/escrow-tuktuk.git
+	branch = master

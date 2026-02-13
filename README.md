@@ -7,3 +7,4 @@
 
 - Week 2:
   - MagicBlock ER Accel (VRF)
+  - Escrow TukTuk
