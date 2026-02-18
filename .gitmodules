@@ -18,3 +18,7 @@
 	path = escrow-tuktuk
 	url = https://github.com/devwraithe/escrow-tuktuk.git
 	branch = master
+[submodule "week-3/genstore"]
+	path = week-3/genstore
+	url = https://github.com/devwraithe/genstore.git
+	branch = master
