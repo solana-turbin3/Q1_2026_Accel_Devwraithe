@@ -38,3 +38,7 @@
 	path = pinocchio-fundraiser
 	url = https://github.com/devwraithe/pinocchio-fundraiser
 	branch = master
+[submodule "nft-staking-core"]
+	path = nft-staking-core
+	url = https://github.com/devwraithe/nft-staking-core
+	branch = main
