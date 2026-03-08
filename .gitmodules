@@ -30,3 +30,7 @@
 	path = freya
 	url = https://github.com/inspi-writer001/freya
 	branch = main
+[submodule "pinocchio-escrow"]
+	path = pinocchio-escrow
+	url = https://github.com/devwraithe/accel-pinocchio-escrow
+	branch = main
