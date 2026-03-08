@@ -26,3 +26,7 @@
 	path = genstore
 	url = https://github.com/devwraithe/genstore.git
 	branch = master
+[submodule "freya"]
+	path = freya
+	url = https://github.com/inspi-writer001/freya
+	branch = main
